@@ -1,0 +1,18 @@
+{
+  "cwd": "D:\\Virtual Box Shared\\Next UI\\fr7",
+  "type": [
+    "web"
+  ],
+  "name": "SpainCalculator",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
